@@ -1,6 +1,6 @@
 package com.kelvin.bookstore.service.serviceimpl;
 
-import com.kelvin.bookstore.BookRepository;
+import com.kelvin.bookstore.repository.BookRepository;
 import com.kelvin.bookstore.service.BookService;
 import com.kelvin.bookstore.model.Book;
 import org.springframework.beans.factory.annotation.Autowired;

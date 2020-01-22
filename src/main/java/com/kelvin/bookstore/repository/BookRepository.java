@@ -1,4 +1,4 @@
-package com.kelvin.bookstore;
+package com.kelvin.bookstore.repository;
 
 import com.kelvin.bookstore.model.Book;
 import org.springframework.data.jpa.repository.JpaRepository;
